@@ -1,14 +1,18 @@
 # Hello!
 Levine here!  
-I'm a web developer, based in Gresik, Indonesia.  
-Most thing I commit here are JS modules I used for my projects.
-I haven't learned about Vue, React, or any other JS frameworks.  
-Thus, those modules are used with the classic way
-```html
-<script src="..."></script>
-```
-I usually do full-stack project with Laravel or front-end project with native JS.
+I'm a full-stack web developer, based in Gresik, Indonesia.
 
-Web development is my main interest, but I'd like to broaden my knowledge about many things!  
-For example, VR, AR, and Game development.  
-Hopefully I can learn them in the future.
+Languages I use:
+
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="48" title="Php" alt="php"/>](https://php.net)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="48" title="Javascript" alt="javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Technologies I use:
+
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="48" title="Laravel" alt="laravel"/>](https://laravel.com/) 
+[<img src="https://web-components-resources.appspot.com/static/logo.svg" width="48" title="Web Component" alt="Web Component" />](https://www.webcomponents.org/)
+
+Currently Learning:
+
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="48" title="Typescript" alt="typescript"/>](https://www.typescriptlang.org/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="48" title="React" alt="react"/> ](https://reactjs.org/)
