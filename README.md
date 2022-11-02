@@ -11,7 +11,7 @@ Technologies I use:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="48" title="Laravel" alt="laravel"/>](https://laravel.com/) 
 [<img src="https://web-components-resources.appspot.com/static/logo.svg" width="48" title="Web Component" alt="Web Component" />](https://www.webcomponents.org/)
-[<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="48" title="Web Component" alt="Web Component" />](https://getbootstrap.com/)
+[<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="48" title="Bootstrap" alt="Bootstrap" />](https://getbootstrap.com/)
 
 Currently Learning:
 
@@ -21,6 +21,6 @@ Currently Learning:
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
-      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="240" height="48" style="max-width: 100%;">
+      <img alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="240" height="48" style="max-width: 100%;">
     </picture>
   </a>
