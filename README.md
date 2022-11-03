@@ -17,6 +17,12 @@ Currently Learning:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="48" title="Typescript" alt="typescript"/>](https://www.typescriptlang.org/)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="48" title="React" alt="react"/> ](https://reactjs.org/)
+<a href="https://nextjs.org">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
+        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="48">
+    </picture>
+</a>
 <a href="https://tailwindcss.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
