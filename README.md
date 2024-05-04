@@ -7,6 +7,7 @@ Languages I use:
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="48" title="Php" alt="php"/>](https://php.net)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="48" title="Javascript" alt="javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="48" title="Typescript" alt="typescript"/>](https://www.typescriptlang.org/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" height="48" title="Typescript" alt="GoLang"/>](https://go.dev/)
 
 Technologies I use:
 
@@ -17,7 +18,7 @@ Technologies I use:
 <a href="https://nextjs.org">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
-        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="48">
+        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="48" alt="NextJS">
     </picture>
 </a>
 <a href="https://tailwindcss.com" target="_blank">
