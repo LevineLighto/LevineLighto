@@ -11,10 +11,10 @@ Languages I use:
 
 Technologies I use:
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="48" title="Laravel" alt="laravel"/>](https://laravel.com/) 
-[<img src="https://web-components-resources.appspot.com/static/logo.svg" width="48" title="Web Component" alt="Web Component" />](https://www.webcomponents.org/)
-[<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="48" title="Bootstrap" alt="Bootstrap" />](https://getbootstrap.com/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="48" title="React" alt="react"/> ](https://reactjs.org/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" height="48" title="Laravel" alt="laravel"/>](https://laravel.com/) 
+[<img src="https://web-components-resources.appspot.com/static/logo.svg" height="48" title="Web Component" alt="Web Component" />](https://www.webcomponents.org/)
+[<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" height="48" title="Bootstrap" alt="Bootstrap" />](https://getbootstrap.com/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" height="48" title="React" alt="react"/> ](https://reactjs.org/)
 <a href="https://nextjs.org">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
