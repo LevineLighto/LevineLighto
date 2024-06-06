@@ -9,6 +9,10 @@ Languages I use:
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="48" title="Typescript" alt="typescript"/>](https://www.typescriptlang.org/)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" height="48" title="GoLang" alt="golang"/>](https://go.dev/)
 
+Languages I'm currently learning:
+
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" height="48" title="Rust" alt="rust"/>](https://www.rust-lang.org/)
+
 Technologies I use:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" height="48" title="Laravel" alt="laravel"/>](https://laravel.com/) 
